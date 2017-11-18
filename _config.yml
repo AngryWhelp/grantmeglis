@@ -1,3 +1,5 @@
-theme: jekyll-theme-dinky
 title: Grant Meglis's Profile
 description: Technology consulting and explorations into the power of language.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-dinky
