@@ -3,15 +3,17 @@ layout: default
 title: Grant Meglis's Profile
 ---
 
-# [](#header-1)Grant Meglis's Profile
-
 Experienced Technical Consultant with a demonstrated history of supporting software development projects through Quality Assurance Engineering and Implementation Services Support. Skilled in Automated Test Engineering, Requirements Analysis, Direct Client Technical Support, and User Training. Strong consulting professional with a Bachelor's Degree focused in Mathematics and Philosophy from Hamilton College.
 
 ---
 
-# [](#header-2) Example Blog Posts
+![](grantmeglis.github.io/Headshot_3.jpg)
 
-# [](#header-3)Growing Your Crop
+---
+
+# [](#header-3)Example Blog Posts
+
+# [](#header-4)Growing Your Crop
 
 (4/25/2017)
 
@@ -21,9 +23,7 @@ We identify and then overlook simple problems constantly, every day. Small probl
 
 At Hamilton, you cultivate mind, body, and spirit with great effort. You may be able to talk the talk, but to build your career you must show your crop. I will offer you a few ideas of crops that you can sell in the market. This means that when you are looking for jobs, you need to create measurable, marketable examples of your performance, experience, and skills.
 
-<!--more Keep reading-->
-
-***Simple Business Similarities**
+**Simple Business Similarities**
 
 Here are examples of conceptually simple things that businesspeople do all the time:
 
@@ -65,7 +65,9 @@ By using any or all 11 of these ideas, you can structure your vast knowledge, ex
 
 ---
 
-# [](#header-3)Who is your favorite fictional character?
+
+
+# [](#header-4)Who is your favorite fictional character?
 (1/27/2016)
 
 **Story**
@@ -75,8 +77,6 @@ When I was 14 years old, as I do now, I loved to read fantasy and science fictio
 As Perrin Aybara delved into adventures, he began to discover a deep, powerful energy: his inner wolf. He grew a thick beard, became intimate with his senses, and noticed his eyes change into a golden hue. He could even communicate with wolves themselves.
 
 I was born with blue eyes. After a few years, these changed to green. At 14 years old, my eye color was changing from green to an earthy, golden hazel. My canine teeth grew longer and sharper than the rest of my teeth. It couldn't be a coincidence.
-
-<!--more Keep reading-->
 
 **Symbol**
 
@@ -93,5 +93,3 @@ We should not restrict our oases of inspiration to those most like us. Yes, I ha
 As I walk down the crowded streets, I see lions and pumas, falcons and hawks, beetles and bears, gorillas and celery. Consider whatever animal (or thing) I smell in you a compliment. Such acts comprise my fundamental survival guide with which I consult when necessary to interact in a crazy, un-symbolized world.
 
 "_For the strength of the pack is the wolf, and the strength of the wolf is the pack._" -Rudyard Kipling
-
----
