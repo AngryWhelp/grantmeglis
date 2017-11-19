@@ -9,7 +9,67 @@ Experienced Technical Consultant with a demonstrated history of supporting softw
 
 ![](grantmeglis.github.io/Headshot_3.jpg)
 
----
+### Resume
+Grant Withington Meglis
+11701 Summerchase Cir Apt. C, Reston, VA 20194, USA • gmeglis@gmail.com • +1 (978) 852-6906
+
+**Business Skills**
+*   Software Development Life Cycle (SDLC)
+*   Quality Assurance (QA)
+*   Direct Client Service and Support
+*   Functional, Regression, and Smoke Testing
+*   User Story & Defect Writing
+*   User Training
+*   Capital Planning/Investment Control (CPIC)
+*   Technical Documentation
+*   Agile Scrum Methodologies
+
+**Technical Skills**
+*   Microsoft Excel: Expert understanding of tables, functions, macros, and externally-linked data reporting
+*   Microsoft PowerPoint: Outstanding slide deck building and refined presenting experience
+*   Advanced knowledge with: Microsoft Office Productivity Suite, Outlook, SharePoint, and Paint
+*   Familiar with: Selenium, C#, .NET, MS Visual Studio, GitHub, XML, VBA, T-SQL, SOAPUI, SpiraTeam, Slack, Snagit, Python, HTML, CSS, Windows, UNIX, and Linux
+
+**Work Experience**
+Booz Allen Hamilton, Inc., Washington, D.C.
+7/2016 - Present
+Technology Consultant • GSA (General Services Administration) • eCPIC Project
+*   Working as a Quality Assurance Engineer and Implementation Services Consultant, Mr. Meglis sustains the implementation of software that 18 Federal Agencies use to manage and report on IT investments 
+*   Supports clients directly as tier 1 and 2 help desk support, fulfilling 100s of requests per month by phone and email
+*   Conducts quarterly in-person and virtual training sessions for dozens of clients and maintain +4.5/5.0 feedback score
+*   Builds complex customized Excel and ad-hoc reports on financial and management data by writing Macros with VBA
+*   Writes technical version description documents (VDDs), training PowerPoint decks, and reference guides
+*   Analyzes XML data to solve discrepancies when sending and receiving data via Web Services API
+*   Tests software application enhancements, conducts regression tests, and organizes team smoke testing of monthly deployments
+*   Employs Scrum methodologies on an Agile development team, including stand-ups, sprints, planning, and review ceremonies
+*   Writes user stories, defects and test cases by gathering requirements and translating them into clear, concise work items
+*   Manages production support and development items throughout the software development lifecycle (SDLC)
+*   Demonstrates completed development items to the Product Owner (PO) at sprint reviews
+
+Tantus Technologies, Inc., Fairfax, VA
+8/2015 - 7/2016
+Business Systems Analyst • The United States Army Reserve • CARDSS Project
+*   Managed and presented deliverables, progress, metrics, and updates to Army Reserve clients each month
+*   Gathered requirements, designed changes, tested functionalities, trained users, and supported proprietary BI software
+*   Trained 35 senior Army Reserve leaders in nine training sessions, maintaining a satisfaction score of +4.5/5.0
+*   Supported hundreds of users as the Help Desk point of contact, addressing on average 23 issues per month
+*   Performed regression and functional testing for fixes, updates, and deployments to ensure application quality
+*   Tracked and reported key performance indicators (KPIs) such as uptime, usage, feedback, and training metrics
+*   Built custom SQL queries to generate ad-hoc reports requested by users
+
+**Education**
+Hamilton College, Clinton, NY
+5/2014
+Bachelor of Arts Degree (3.3 / 4.0 GPA) in Mathematics (3.3 / 4.0) and Philosophy (3.6 / 4.0)
+
+**Certifications**
+Security Clearance: Secret, 8/2015
+ICAgile Certified Professional (ICP), 12/2016
+Microsoft MTA 364-98 Database Fundamentals, 12/2015
+CompTIA Security+, 10/2015
+
+**Interests**
+Machine Intelligence • Blockchain • Mazes • Fountain Pens • Biking
 
 # [](#header-3)Example Blog Posts
 
@@ -62,6 +122,56 @@ Here are some ideas that allow you to show off critical skills and produce the m
 11. Support: Build a training document that demonstrates how your solution works to clients paying for it, team members wanting to help, or a random stranger sitting on the Sadove sunporch.
 
 By using any or all 11 of these ideas, you can structure your vast knowledge, experience, and skills into a crop that you can sell by pointing at it. Just like a normal day pales in comparison to the fresh, exhilarating giddiness of a snow day, you want to walk into interviews and rip open the curtains, as the interviewee’s eyes lift wide to gaze upon the mountains of fluffy snow… metaphorically of course.
+
+---
+
+
+
+# [](#header-4)Buy high: Get your attention's worth
+(3/20/2016)
+
+**Story**
+
+I had the morning and early afternoon to explore before my flight to Dublin, so I decided to wander. While ambling through Hyde Park, London early on a late-summer day, I noticed a crowd of people gathered under some trees: extravagantly-dressed characters speaking loudly to surrounding groups of people. A few stood atop boxes. As I approached, the cacophony of monologues crept up into my ears and I entered Speaker's Corner.
+
+When I could finally fit a word of my own into the fray, I asked one speaker about the implications of overpopulation. Before I had finished asking my question, he snatched attention away from me and started speaking. He led us on a magical journey of speech and language, countless hecklers interrupted and argued as they pleased. The speaker wrestled for attention from many challengers.
+
+Soon, one famous challenger arrived: a self-proclaimed fascist, dressed in military garb with a Hitler-style mustache, argued for the role of a strong state, necessity of institutions, and importance of racism. In response the first speaker wove a deep metaphor about how the challenger's thought process could be represented as a sewage system funneling large, powerful shits.
+
+**Symbol**
+
+But this scene was more than a processing system for word-shits. It was beautiful not because of the shit in the sewer, but rather the sea into which the sewers spewed.
+
+Here at Speaker's Corner between strangers the right to speak is fought for and not given. Anyone can speak openly, with or without respect to those on the soap-boxes. The people constantly construct and deconstruct the social dynamics that give attention to one and take it away from another.
+
+Social dynamics we may take for granted, but allocation of attention is less like a hierarchy and more like a swirling ocean of pure chaos. Many situations in our lives have predetermined social roles, depending on cues like status, dress, age, and confidence. Social pressure compels us to fight for attention covertly and subtly, appearing always in control. Conflicts that emerge into verbal or physical fights are deemed uncivil.
+
+But when social dynamics are boiled down, rules fall apart and only savagery remains. The prize of these fights is dominance through attention, and the prize of attention is self-worth.
+
+**Power**
+
+In order to win attention, study how you give attention. Specifically, notice how you pay attention.
+
+Even notice the language we use: "pay attention." We are in control of a valuable resource that we can trade for something in return. As is the case with currency and confidence, the more you value your attention, the more others will. Those seeking your attention can provide something in return. The intelligent and successful sell their attention for highly valuable resources with developmental benefits. They sell high.
+
+How do you get your attention's worth?
+
+Take an "attention pulse" throughout the day.
+
+Keep a journal, or use a note-taking app on your phone. At certain points during the day, take note of what you were paying your attention to a moment before. For each entry, document important observations:
+
+Object of attention
+Time
+Location
+Context (what happened before or after this?)
+And most importantly:
+
+Trade-off (that which is received for your attention)
+Whether it is knowledge, entertainment, social value, nourishment, relaxation, or fulfillment, this observation will reveal for what you trade your most powerful, but finite resource. Consolidate your results. Are you spending your attention wisely? If not, identify what trade-offs are most valuable to you, and budget your attention accordingly. Remember, your attention is only as good as you spend it.
+
+The conversations at the Speaker's Corner are passionate, radical, eloquent, and challenging: true Sophists at work. I most enjoyed the pure awe I felt at the skilled rhetoric of an individual vying for attention. Such social dynamics were incredibly entertaining to witness, and revealed a raw truth about the power of attention.
+
+"_Intelligence is not only the ability to reason; it is also the ability to find relevant material in memory and to deploy attention when needed._" -Daniel Kahneman
 
 ---
 
