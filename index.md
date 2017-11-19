@@ -7,9 +7,9 @@ Experienced Technical Consultant with a demonstrated history of supporting softw
 
 ---
 
-![](grantmeglis.github.io/Headshot_3.jpg)
+![](grantmeglis.github.io/Headshot_5.jpg)
 
-### Resume
+# [](#header-4)Resume
 
 Grant Withington Meglis
 
@@ -19,7 +19,7 @@ Grant Withington Meglis
 *   Software Development Life Cycle (SDLC)
 *   Quality Assurance (QA)
 *   Direct Client Service and Support
-*   Functional, Regression, and Smoke Testing
+*   Automated and Manual Testing
 *   User Story & Defect Writing
 *   User Training
 *   Capital Planning/Investment Control (CPIC)
@@ -69,7 +69,7 @@ _Business Systems Analyst_ • _The United States Army Reserve_ • _CARDSS Proj
 
 **Hamilton College**, Clinton, NY
 
-5/2014
+Graduated 5/2014
 
 Bachelor of Arts Degree (3.3 / 4.0 GPA) in Mathematics (3.3 / 4.0) and Philosophy (3.6 / 4.0)
 
@@ -84,9 +84,9 @@ Bachelor of Arts Degree (3.3 / 4.0 GPA) in Mathematics (3.3 / 4.0) and Philosoph
 
 Machine Intelligence • Blockchain • Mazes • Fountain Pens • Biking
 
---
+---
 
-# [](#header-3)Example Blog Posts
+# [](#header-3)Blog Posts
 
 # [](#header-4)Growing Your Crop
 
@@ -140,8 +140,6 @@ By using any or all 11 of these ideas, you can structure your vast knowledge, ex
 
 ---
 
-
-
 # [](#header-4)Buy high: Get your attention's worth
 (3/20/2016)
 
@@ -189,8 +187,6 @@ The conversations at the Speaker's Corner are passionate, radical, eloquent, and
 "_Intelligence is not only the ability to reason; it is also the ability to find relevant material in memory and to deploy attention when needed._" -Daniel Kahneman
 
 ---
-
-
 
 # [](#header-4)Who is your favorite fictional character?
 (1/27/2016)
