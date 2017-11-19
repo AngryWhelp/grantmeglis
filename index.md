@@ -10,10 +10,12 @@ Experienced Technical Consultant with a demonstrated history of supporting softw
 ![](grantmeglis.github.io/Headshot_3.jpg)
 
 ### Resume
+
 Grant Withington Meglis
+
 11701 Summerchase Cir Apt. C, Reston, VA 20194, USA • gmeglis@gmail.com • +1 (978) 852-6906
 
-**Business Skills**
+### Business Skills
 *   Software Development Life Cycle (SDLC)
 *   Quality Assurance (QA)
 *   Direct Client Service and Support
@@ -24,16 +26,20 @@ Grant Withington Meglis
 *   Technical Documentation
 *   Agile Scrum Methodologies
 
-**Technical Skills**
+### Technical Skills
 *   Microsoft Excel: Expert understanding of tables, functions, macros, and externally-linked data reporting
 *   Microsoft PowerPoint: Outstanding slide deck building and refined presenting experience
 *   Advanced knowledge with: Microsoft Office Productivity Suite, Outlook, SharePoint, and Paint
-*   Familiar with: Selenium, C#, .NET, MS Visual Studio, GitHub, XML, VBA, T-SQL, SOAPUI, SpiraTeam, Slack, Snagit, Python, HTML, CSS, Windows, UNIX, and Linux
+*   Familiar with: Selenium, C#, .NET, MS Visual Studio, GitHub, XML, VBA, SQL, SOAPUI, SpiraTeam, Slack, Snagit, Python, HTML, CSS, Windows, UNIX, and Linux
 
-**Work Experience**
-Booz Allen Hamilton, Inc., Washington, D.C.
+### Work Experience
+
+**Booz Allen Hamilton, Inc.**, Washington, D.C.
+
 7/2016 - Present
-Technology Consultant • GSA (General Services Administration) • eCPIC Project
+
+_Technology Consultant_ • _GSA (General Services Administration)_ • _eCPIC Project_
+
 *   Working as a Quality Assurance Engineer and Implementation Services Consultant, Mr. Meglis sustains the implementation of software that 18 Federal Agencies use to manage and report on IT investments 
 *   Supports clients directly as tier 1 and 2 help desk support, fulfilling 100s of requests per month by phone and email
 *   Conducts quarterly in-person and virtual training sessions for dozens of clients and maintain +4.5/5.0 feedback score
@@ -46,9 +52,11 @@ Technology Consultant • GSA (General Services Administration) • eCPIC Projec
 *   Manages production support and development items throughout the software development lifecycle (SDLC)
 *   Demonstrates completed development items to the Product Owner (PO) at sprint reviews
 
-Tantus Technologies, Inc., Fairfax, VA
+**Tantus Technologies, Inc.**, Fairfax, VA
+
 8/2015 - 7/2016
-Business Systems Analyst • The United States Army Reserve • CARDSS Project
+
+_Business Systems Analyst_ • _The United States Army Reserve_ • _CARDSS Project_
 *   Managed and presented deliverables, progress, metrics, and updates to Army Reserve clients each month
 *   Gathered requirements, designed changes, tested functionalities, trained users, and supported proprietary BI software
 *   Trained 35 senior Army Reserve leaders in nine training sessions, maintaining a satisfaction score of +4.5/5.0
@@ -57,19 +65,26 @@ Business Systems Analyst • The United States Army Reserve • CARDSS Project
 *   Tracked and reported key performance indicators (KPIs) such as uptime, usage, feedback, and training metrics
 *   Built custom SQL queries to generate ad-hoc reports requested by users
 
-**Education**
-Hamilton College, Clinton, NY
+### Education
+
+**Hamilton College**, Clinton, NY
+
 5/2014
+
 Bachelor of Arts Degree (3.3 / 4.0 GPA) in Mathematics (3.3 / 4.0) and Philosophy (3.6 / 4.0)
 
-**Certifications**
-Security Clearance: Secret, 8/2015
-ICAgile Certified Professional (ICP), 12/2016
-Microsoft MTA 364-98 Database Fundamentals, 12/2015
-CompTIA Security+, 10/2015
+### Certifications
 
-**Interests**
+*   Security Clearance: Secret, 8/2015
+*   ICAgile Certified Professional (ICP), 12/2016
+*   Microsoft MTA 364-98 Database Fundamentals, 12/2015
+*   CompTIA Security+, 10/2015
+
+### Interests
+
 Machine Intelligence • Blockchain • Mazes • Fountain Pens • Biking
+
+--
 
 # [](#header-3)Example Blog Posts
 
